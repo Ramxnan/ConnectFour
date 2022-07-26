@@ -11,8 +11,8 @@ The game is implemented in jack language and can be run after complied using the
 
 ## How to run
 
-Step 1: Delete all VM files in the folder
-Step 2: Run JackComplier.bat to generate new VM files
-Step 3: Run VMEmulator.bat to run the emulator
-Step 4: Choose program file as the full connect_four folder and run with fast speed and no animations
+Step 1: Delete all VM files in the folder<br>
+Step 2: Run JackComplier.bat to generate new VM files<br>
+Step 3: Run VMEmulator.bat to run the emulator<br>
+Step 4: Choose program file as the full connect_four folder and run with fast speed and no animations<br>
 
